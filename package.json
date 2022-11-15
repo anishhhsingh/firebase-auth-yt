@@ -2,7 +2,7 @@
   "name": "firebase-auth-yt",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/gaudy540octopus/Firebase-Authentication.git",
+  "homepage": "https://github.com/gaudy540octopus/firebase-auth-yt.git",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
